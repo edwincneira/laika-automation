@@ -1,7 +1,13 @@
 # Laika Automation for Android 📱🐸 and iOS 📱🍎
 
-### Versión 1 Ready!
-## En construcción para más features y tests...  🔨
+### Versión 1 Ready! Only Login
+
+---
+
+[![ScreenShot](media/screen-video.png)](https://youtu.be/BfWnyTk87m4)
+
+
+---
 
 ## Tools 💻🛠
 
@@ -14,11 +20,6 @@
 [App PlayStore](https://play.google.com/store/apps/details?id=com.kubo.laika&hl=es_CO&gl=US)
 
 [App Apple Store](https://apps.apple.com/co/app/laika-la-tienda-de-tu-mascota/id1325285117)
-
----
-
-[![ScreenShot](media/video-screen.jpeg)](https://youtu.be/BfWnyTk87m4)
-
 
 ---
 
@@ -47,3 +48,6 @@
 
 Si tienes una duda acerca del código puedes hacer la pregunta al siguiente correo ***eachivatan@correo.udistrital.edu.co*** con el asunto
 ***Duda Automatización*** 💪
+
+
+## En construcción para más features y tests...  🔨
